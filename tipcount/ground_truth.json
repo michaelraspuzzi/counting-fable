@@ -1,0 +1,116 @@
+{
+  "_comment": "Hand-labelled tip counts per frame and slot. The 'IN USE' yellow rack has its first 4 columns empty (64 tips). The blue 1000uL rack is full (96) until two tips are pulled by hand around 22:31:05, then 94. The second yellow rack (slot A) has an unknown number of empty wells in its back rows and is cut off by the image edge, so it is not scored. 'occluded' marks frames where a hand covers the slot. At 10-22-31-18 the blue rack sits in slot D (far right), not B.",
+  "frames": {
+    "01-22-28-15.jpg": {
+      "D_back_right": 96,
+      "B_back_right": 64
+    },
+    "02-22-28-20.jpg": {
+      "D_back_right": 96,
+      "B_back_right": 64
+    },
+    "03-22-28-25.jpg": {
+      "D_back_right": 96,
+      "B_back_right": 64
+    },
+    "04-22-28-30.jpg": {
+      "D_back_right": 96,
+      "B_back_right": 64
+    },
+    "05-22-28-35.jpg": {
+      "D_back_right": 96,
+      "B_back_right": 64
+    },
+    "07-22-28-45.jpg": {
+      "D_back_right": 96,
+      "B_back_right": 64
+    },
+    "08-22-28-50.jpg": {
+      "D_back_right": 96,
+      "B_back_right": 64
+    },
+    "09-22-28-55.jpg": {
+      "D_back_right": 96,
+      "B_back_right": 64
+    },
+    "10-22-29-00.jpg": {
+      "F_near_left": 96,
+      "B_back_right": 64
+    },
+    "12-22-29-10.jpg": {
+      "F_near_left": 96
+    },
+    "13-22-29-15.jpg": {
+      "G_near_mid": 64,
+      "F_near_left": 96
+    },
+    "14-22-29-20.jpg": {
+      "G_near_mid": "occluded",
+      "F_near_left": 96
+    },
+    "15-22-29-25.jpg": {
+      "G_near_mid": 64,
+      "F_near_left": 96
+    },
+    "01-22-30-05.jpg": {
+      "G_near_mid": 64,
+      "F_near_left": 96
+    },
+    "02-22-30-11.jpg": {
+      "G_near_mid": 64,
+      "F_near_left": 96
+    },
+    "03-22-30-16.jpg": {
+      "G_near_mid": 64,
+      "F_near_left": 96
+    },
+    "04-22-30-21.jpg": {
+      "G_near_mid": 64,
+      "F_near_left": 96
+    },
+    "05-22-30-33.jpg": {
+      "C_back_farleft": 64,
+      "F_near_left": 96
+    },
+    "06-22-30-44.jpg": {
+      "C_back_farleft": 64,
+      "F_near_left": 96
+    },
+    "07-22-30-52.jpg": {
+      "C_back_farleft": 64,
+      "F_near_left": 96
+    },
+    "08-22-31-01.jpg": {
+      "C_back_farleft": 64,
+      "F_near_left": "occluded"
+    },
+    "09-22-31-09.jpg": {
+      "C_back_farleft": 64,
+      "F_near_left": "occluded"
+    },
+    "10-22-31-18.jpg": {
+      "C_back_farleft": 64,
+      "D_back_right": 94
+    },
+    "11-22-31-25.jpg": {
+      "C_back_farleft": 64,
+      "H_near_midlow": "occluded"
+    },
+    "12-22-31-34.jpg": {
+      "C_back_farleft": 64,
+      "H_near_midlow": 94
+    },
+    "13-22-31-41.jpg": {
+      "C_back_farleft": 64,
+      "H_near_midlow": 94
+    },
+    "14-22-31-50.jpg": {
+      "C_back_farleft": 64,
+      "B_back_right": 94
+    },
+    "15-22-31-59.jpg": {
+      "C_back_farleft": 64,
+      "B_back_right": 94
+    }
+  }
+}

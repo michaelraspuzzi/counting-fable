@@ -1,0 +1,166 @@
+{
+  "_comment": "Calibrated 96-well face quads per deck position, image coords for the 640x360 deck camera. Order: front-left, back-left, back-right, front-right (front-left -> back-left is the 12-column edge). Calibrated 2026-10-24 from the frames in this folder.",
+  "image_size": [
+    640,
+    360
+  ],
+  "slots": {
+    "A_back_left": {
+      "quad": [
+        [
+          356.5,
+          15.5
+        ],
+        [
+          429.0,
+          -0.5
+        ],
+        [
+          453.0,
+          -0.5
+        ],
+        [
+          464.5,
+          43.5
+        ]
+      ],
+      "note": "rack cut off by the top image edge: reported as partial view, no count",
+      "calibrated_from": "15-22-31-59.jpg",
+      "objective": -0.118,
+      "partial": true
+    },
+    "C_back_farleft": {
+      "quad": [
+        [
+          227.5,
+          36.0
+        ],
+        [
+          273.0,
+          4.0
+        ],
+        [
+          326.3,
+          15.2
+        ],
+        [
+          288.3,
+          47.2
+        ]
+      ],
+      "calibrated_from": "15-22-31-59.jpg",
+      "objective": 0.267
+    },
+    "D_back_right": {
+      "quad": [
+        [
+          537.5,
+          51.5
+        ],
+        [
+          580.0,
+          8.0
+        ],
+        [
+          639.0,
+          29.5
+        ],
+        [
+          617.0,
+          92.0
+        ]
+      ],
+      "calibrated_from": "01-22-28-15.jpg",
+      "objective": 0.865
+    },
+    "F_near_left": {
+      "quad": [
+        [
+          186.5,
+          159.4
+        ],
+        [
+          265.5,
+          93.0
+        ],
+        [
+          309.8,
+          129.0
+        ],
+        [
+          240.6,
+          195.3
+        ]
+      ],
+      "calibrated_from": "15-22-29-25.jpg",
+      "objective": 0.863
+    },
+    "G_near_mid": {
+      "quad": [
+        [
+          372.6,
+          106.8
+        ],
+        [
+          429.5,
+          46.5
+        ],
+        [
+          488.6,
+          75.2
+        ],
+        [
+          436.3,
+          135.9
+        ]
+      ],
+      "calibrated_from": "15-22-29-25.jpg",
+      "objective": 0.756
+    },
+    "H_near_midlow": {
+      "quad": [
+        [
+          268.5,
+          213.5
+        ],
+        [
+          334.0,
+          145.0
+        ],
+        [
+          401.3,
+          177.1
+        ],
+        [
+          360.8,
+          227.8
+        ]
+      ],
+      "calibrated_from": "12-22-31-34.jpg",
+      "objective": 0.45
+    },
+    "B_back_right": {
+      "quad": [
+        [
+          452.9,
+          26.9
+        ],
+        [
+          482.0,
+          0.0
+        ],
+        [
+          551.5,
+          0.3
+        ],
+        [
+          506.1,
+          46.6
+        ]
+      ],
+      "calibrated_from": "15-22-31-59.jpg",
+      "objective": 0.89,
+      "note": "blue 1000uL rack in seq 2, yellow IN USE rack (rotated, empty columns facing away) in seq 1"
+    }
+  }
+}
